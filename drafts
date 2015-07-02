@@ -1,0 +1,4 @@
+var day=$(".active input:eventDay").value;
+var month=$(".active input:eventMonth").value;
+var charges=$(".active input:eventCharges").value;
+var venue=$(".active input:eventVenue").value;
